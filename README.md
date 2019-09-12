@@ -1,0 +1,2 @@
+# manifesto
+Manifesto for openfoundation 
